@@ -1,0 +1,38 @@
+load
+	Loaded:test10data.csv
+	#Records:29
+locked
+Name,ID,Account,Username,Password,Hash
+Harry CLARK,1961842657,7812535494,HarryCLARK,1*Xe1#Oo0"Jk,1831
+Ida HALL,1961842662,1077506954,IdaHALL,9"Ft7#In8.Bq,1245
+Harry WILLIAMS,1961842663,6049685806,HarryWILLIAMS,3(Su3&Ha6.Vl,1365
+Grace ANDERSON,1961842664,0294250624,GraceANDERSON,5#Xf7(Dh1*Ds,1591
+Florence TAYLOR,1961842667,4005475918,FlorenceTAYLOR,9*Xi2(Yo5(Ti,1175
+Robert JOHNSON,1961842674,6635812630,RobertJOHNSON,0-Gg9!Rp4%Pa,1064
+Fred YOUNG,1961842677,1614470834,FredYOUNG,3(Hl3&Hw7.Wp,1754
+Grace RODRIGUEZ,1961842678,7897789939,GraceRODRIGUEZ,4'Ne4.Ed6!Dn,1238
+Grace MARTINEZ,1961842680,0639479758,GraceMARTINEZ,2#Or1%Ud2)Rb,1168
+unlock 1961842657
+	Account 1961842657 unlocked.
+unlock 1961842662
+	Password does not meet criteria
+unlock 1961842663
+	Password does not meet criteria
+unlock 1961842664
+	Password does not meet criteria
+unlock 1961842667
+	Account 1961842667 unlocked.
+unlock 1961842674
+	Password does not meet criteria
+unlock 1961842677
+	Password does not meet criteria
+unlock 1961842678
+	Password does not meet criteria
+unlock 1961842680
+	Account 1961842680 unlocked.
+add Emma YOUNG 1961842685 4746728196 EmmaYOUNG 2#In7-Jj1
+	Record not added
+remove 1961842669
+	Account 1961842669 removed.
+save Saved:test10saveFile.csv
+	#Records:28

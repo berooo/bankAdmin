@@ -1,0 +1,5 @@
+load
+	Loaded: test5data.csv
+	#Records: 24
+add Harry WALKER	1961842545	2019134416	HarryWALKER	0-Qh5.Eg8-Io
+	Record added.

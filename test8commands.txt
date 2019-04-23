@@ -1,0 +1,2 @@
+load test8data.csv
+remove 1961842629

@@ -1,0 +1,41 @@
+load
+	Loaded: test4data.csv
+	#Records: 23
+locked
+Name,ID,Account,Username,Password,Hash
+James JONES,1961842498,5331872817,JamesJONES,9&Db3)Zu2)Rf,1203
+Margaret KING,1961842499,5213248838,MargaretKING,5+Kc8)Zc3-Jr,1464
+Ida HALL,1961842502,2494476802,IdaHALL,2)Sr8"Wq4)Nr,1353
+Joseph CLARK,1961842504,9165127736,JosephCLARK,0+Pp4!Az1*Xv,1855
+Fred MILLER,1961842505,1237801775,FredMILLER,8#Ab5%Mu4+Pv,1437
+Thomas WILLIAMS,1961842507,9127487609,ThomasWILLIAMS,4.Hn2"Jr0&Ab,1841
+Fred WILLIAMS,1961842508,1735271164,FredWILLIAMS,8)Ed0!Ol3*Ot,1464
+Clara CLARK,1961842509,3317317054,ClaraCLARK,7'La0-Bn6&Bg,905
+Clara MARTINEZ,1961842510,4526169438,ClaraMARTINEZ,9$Og0'Pt1&Mg,1426
+Robert THOMAS,1961842511,4872755445,RobertTHOMAS,2.Xj8"Ht7"Hc,1582
+Bessie ANDERSON,1961842516,9356735435,BessieANDERSON,6+Jc0#Hz6*Uq,1115
+Ida WILSON,1961842517,5412917296,IdaWILSON,0-Du8-Px7.Rk,1197
+unlock 1961842498
+	Password does not meet criteria
+unlock 1961842499
+	Account 1961842499 unlocked.
+unlock 1961842502
+	Password does not meet criteria
+unlock 1961842504
+	Password does not meet criteria
+unlock 1961842505
+	Account 1961842505 unlocked.
+unlock 1961842507
+	Password does not meet criteria
+unlock 1961842508
+	Password does not meet criteria
+unlock 1961842509
+	Password does not meet criteria
+unlock 1961842510
+	Password does not meet criteria
+unlock 1961842511
+	Password does not meet criteria
+unlock 1961842516
+	Account 1961842516 unlocked.
+unlock 1961842517
+	Account 1961842517 unlocked.

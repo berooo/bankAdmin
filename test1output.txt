@@ -1,0 +1,5 @@
+load
+	Loaded: test1data.csv
+	#Records: 10
+locked
+	Good job, no one was hacked last night.

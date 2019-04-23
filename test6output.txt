@@ -1,0 +1,5 @@
+load
+	Loaded: test6data.csv
+	#Records: 28
+add Elizabeth TAYLOR	1961842574	4194796075	ElizabethTAYLOR	%+Kj(#Ak+&
+	Record not added.

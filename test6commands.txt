@@ -1,0 +1,2 @@
+load test6data.csv
+add Elizabeth TAYLOR,1961842574,4194796075,ElizabethTAYLOR,%+Kj(#Ak+&,

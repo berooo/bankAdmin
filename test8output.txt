@@ -1,0 +1,5 @@
+load
+	Loaded: test8data.csv
+	#Records: 26
+remove 1961842629
+	Account 1961842629 removed.
